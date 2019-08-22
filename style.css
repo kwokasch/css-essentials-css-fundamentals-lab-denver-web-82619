@@ -14,7 +14,10 @@ img {
     margin-right: auto;
 }
 
-nav a {
+nav {
+  text-align: center;
+}
+a {
   display: inline-block;
   text-align: center;
   padding-left: 10px; 
