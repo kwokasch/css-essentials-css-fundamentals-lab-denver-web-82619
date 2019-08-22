@@ -31,7 +31,11 @@ figcaption {
   margin-right: auto;
 }
 
-#feature-property p{
+#feature-property {
+  text-align: center;
+}
+
+p{
   display: block;
     width: 800px;
     text-align: center;
