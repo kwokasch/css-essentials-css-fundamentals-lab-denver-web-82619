@@ -32,12 +32,13 @@ figcaption {
 }
 
 #feature-property {
-  text-align: center;
+  
 }
 
 #feature-property p{
+  text-align: center;
   display: block;
-    width: 800px;
+  width: 800px;
 }
 
 #details {
