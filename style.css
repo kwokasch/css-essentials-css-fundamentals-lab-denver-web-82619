@@ -14,7 +14,7 @@ img {
     margin-right: auto;
 }
 
-nav > a {
+a.nav-link {
   text-align: center;
   padding-left: 10px; 
   padding-right: 10px;
